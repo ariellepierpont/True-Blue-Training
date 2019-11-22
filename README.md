@@ -8,10 +8,10 @@ I decided to make this project because there is a gap in the blue collar work fo
 
 ### Features
 
-- User Sign up: Users will be able to create a new profile for themselves, allowing them to work through a course on a trade they are interested in.
-- User Login: Users will be able to login after creating a profile. Passwords will be hashed, salted, and possibly peppered.
-- Watch videos, complete assignments, and complete quizzes: Users will work through various units of aspects of the program they need to learn via watching videos, moving to the next page where they work through an example, then complete a quiz at the end of the unit. 
-- View Course Progress: Users will be able to see their progress through the class, including completed assignments and quizzes.
+- User Sign up: Users will be able to create a new profile for themselves, allowing them to work through a course on a trade they are interested in. User sign-up Wireframe: https://github.com/ariellepierpont/True-Blue-Training/blob/master/IMG_0062.jpg
+- User Login: Users will be able to login after creating a profile. Passwords will be hashed, salted, and possibly peppered. https://github.com/ariellepierpont/True-Blue-Training/blob/master/IMG_0061.jpg
+- Watch videos, complete assignments, and complete quizzes: Users will work through various units of aspects of the program they need to learn via watching videos, moving to the next page where they work through an example, then complete a quiz at the end of the unit. https://github.com/ariellepierpont/True-Blue-Training/blob/master/IMG_0058.jpg
+- View Course Progress: Users will be able to see their progress through the class, including completed assignments and quizzes. https://github.com/ariellepierpont/True-Blue-Training/blob/master/IMG_0058.jpg
 
 ### Technologies
 - Java
