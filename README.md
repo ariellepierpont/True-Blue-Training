@@ -23,3 +23,5 @@ I decided to make this project because there is a gap in the blue collar work fo
 
 ### What I'll Have to Learn
 I am new to JS and Agile. I understand HTTP Requests, HTTP Responses, and serving up templates. I will have to do some research on what is available, and what makes sense for a project of this size. I also will have to dive deeper into Agile to manage my framework. 
+
+Trello link: https://trello.com/b/jJvhqHzX/project-true-blue
